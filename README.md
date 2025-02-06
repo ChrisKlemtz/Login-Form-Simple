@@ -18,8 +18,8 @@ Das Projekt basiert auf folgenden Technologien:
 Folgende Schritte sind notwendig, um das Projekt lokal auszuführen:
 
 1. **Repository klonen**
-> git clone XXX
-> cd XXX
+> git clone git@github.com:ChristophKlemtz-DCI/Login-Form-Simple-.git
+> cd **login-app**
 
 2. **Abhängigkeiten installieren**
 > npm install
