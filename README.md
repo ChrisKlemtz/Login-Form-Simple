@@ -38,3 +38,21 @@ Die Anwendung ist nun unter http://localhost:5173 erreichbar.
 3. Nutze das Login-Formular, um dich anzumelden.
 
 ## 🌟 Features
+
+- Responsives Design mit **Tailwind CSS**
+- Formvalidierung für sichere Eingaben
+- Sauber strukturierter und lint-freier Code mit **ESLint**
+- Optimierte Entwicklungsumgebung mit Vite
+
+## 🎓 Best Practices
+
+- Stelle sicher, dass du ESLint ausführst, bevor du Code committest:
+> npm run lint
+- Halte den Code sauber und modularisiert.
+- Nutze Tailwind CSS sinnvoll, um redundante Styles zu vermeiden.
+
+## 📝 Lizenz
+
+Dieses Projekt ist unter keiner Lizenz.
+
+## 👥 Autor
