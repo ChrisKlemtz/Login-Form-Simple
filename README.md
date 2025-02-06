@@ -4,7 +4,7 @@
 
 Dieses Projekt ist eine moderne Login-Formular-Anwendung, die mit React unter Vite entwickelt wurde. Sie verwendet Tailwind CSS für das Styling und ESLint zur Code-Qualitätssicherung. Das Ziel des Projekts ist es, eine benutzerfreundliche und sichere Anmeldefunktion bereitzustellen.
 
-## Technologien
+## 🛠 Technologien
 
 Das Projekt basiert auf folgenden Technologien:
 - **JavaScript**: Programmiersprache des Projekts
@@ -13,7 +13,7 @@ Das Projekt basiert auf folgenden Technologien:
 - **Tailwind CSS**: Utility-First CSS-Framework für das Styling
 - **ESLint**: Tool zur Code-Qualitätssicherung
 
-## Installation
+## ⚡ Installation
 
 Folgende Schritte sind notwendig, um das Projekt lokal auszuführen:
 
@@ -26,3 +26,15 @@ Folgende Schritte sind notwendig, um das Projekt lokal auszuführen:
 
 3. **Entwicklungsserver starten**
 > npm run dev
+
+Die Anwendung ist nun unter http://localhost:5173 erreichbar.
+
+##  🔧 Nutzung
+
+1. Starte das Projekt mit npm run dev.
+
+2. Rufe die Anwendung im Browser auf.
+
+3. Nutze das Login-Formular, um dich anzumelden.
+
+## 🌟 Features
