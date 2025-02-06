@@ -59,3 +59,5 @@ Dieses Projekt ist unter keiner Lizenz.
 
 Christoph Klemtz – Entwickler 
 GitHub-Profil: https://github.com/ChristophKlemtz-DCI
+
+!!!!! Other Links! !!!!!   NOT finished ye !!!!!
