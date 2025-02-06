@@ -1,8 +1,28 @@
-# React + Vite
+# A simple Login-Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Beschreibung
 
-Currently, two official plugins are available:
+Dieses Projekt ist eine moderne Login-Formular-Anwendung, die mit React unter Vite entwickelt wurde. Sie verwendet Tailwind CSS für das Styling und ESLint zur Code-Qualitätssicherung. Das Ziel des Projekts ist es, eine benutzerfreundliche und sichere Anmeldefunktion bereitzustellen.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologien
+
+Das Projekt basiert auf folgenden Technologien:
+- **JavaScript**: Programmiersprache des Projekts
+- **React**: Frontend-Framework zur Erstellung der Benutzeroberfläche
+- **Vite**: Build-Tool für schnelle Entwicklungszeiten
+- **Tailwind CSS**: Utility-First CSS-Framework für das Styling
+- **ESLint**: Tool zur Code-Qualitätssicherung
+
+## Installation
+
+Folgende Schritte sind notwendig, um das Projekt lokal auszuführen:
+
+1. **Repository klonen**
+> git clone XXX
+> cd XXX
+
+2. **Abhängigkeiten installieren**
+> npm install
+
+3. **Entwicklungsserver starten**
+> npm run dev
