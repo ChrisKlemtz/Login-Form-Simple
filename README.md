@@ -1,8 +1,8 @@
-# A simple Login-Form
+# A simple Login-Form in JS (React)
 
 ## Beschreibung
 
-Dieses Projekt ist eine moderne Login-Formular-Anwendung, die mit React unter Vite entwickelt wurde. Sie verwendet Tailwind CSS für das Styling und ESLint zur Code-Qualitätssicherung. Das Ziel des Projekts ist es, eine benutzerfreundliche und sichere Anmeldefunktion bereitzustellen.
+Dieses Projekt ist eine moderne Login-Formular-Anwendung, die mit **React** unter **Vite** entwickelt wurde. Sie verwendet **Tailwind CSS** für das Styling und **ESLint** zur Code-Qualitätssicherung. Das Ziel des Projekts ist es, eine benutzerfreundliche und sichere Anmeldefunktion bereitzustellen.
 
 ## 🛠 Technologien
 
@@ -56,3 +56,6 @@ Die Anwendung ist nun unter http://localhost:5173 erreichbar.
 Dieses Projekt ist unter keiner Lizenz.
 
 ## 👥 Autor
+
+Christoph Klemtz – Entwickler 
+GitHub-Profil: https://github.com/ChristophKlemtz-DCI
